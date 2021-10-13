@@ -1,6 +1,4 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import ReactSuggestion from 'src/atoms/ReactSuggest'
+import ReactSuggestion from 'src/components/atoms/ReactSuggest'
 // import styles from '../styles/Home.module.css'
 
 export default function Home() {
